@@ -1,9 +1,8 @@
-fastapi
-uvicorn[standard]
-streamlit
-scikit-learn
-pandas
-numpy
-requests
-python-dotenv
-python-3.11.9
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+streamlit==1.33.0
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+requests==2.31.0
+python-dotenv==1.0.1
