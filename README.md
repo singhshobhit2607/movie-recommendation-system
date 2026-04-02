@@ -1,4 +1,5 @@
 # movie-recommendation-systyem
+live demo --https://movie-recommendation-system2607.streamlit.app
 This project is a hybrid movie recommendation system🎯 that combines machine learning (TF-IDF) 🤖 with real-time API integration (TMDB) 🌐 to deliver accurate and visually rich movie suggestions.
 
 The system follows a modular architecture 🏗️ where the backend is built using FastAPI ⚡ for handling heavy computations and API calls, while the frontend is developed using Streamlit 🎨 to provide an interactive and user-friendly interface.
